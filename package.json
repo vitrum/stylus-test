@@ -1,0 +1,23 @@
+{
+  "name": "stylus-test",
+  "description": "stylus test case",
+  "version": "0.1.0",
+  "author": "vitrum.zhu <vitrum.cn@gmail.com>",
+  "keywords": [
+    "css",
+    "parser",
+    "style",
+    "stylesheets",
+    "test case"
+  ],
+  "repository": "git://github.com/vitrum/stylus-test",
+  "dependencies": {
+    "debug": "*",
+    "stylus": "https://github.com/sidorares/stylus/tarball/sourcemaps",
+    "source-map": "~0.1.29"
+  },
+  "devDependencies": {
+    "should": "*",
+    "mocha": "*"
+  }
+}
